@@ -9,4 +9,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dufzinha&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dufzinha&icon=2&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Dufzinha&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
