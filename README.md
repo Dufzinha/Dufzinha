@@ -9,10 +9,7 @@
 </p>
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dufzinha&show_icons=true&count_private=true&hide_border=true&title_color=008B8B&icon_color=40E0D0&text_color=c9d1d9&bg_color=0d1117" alt="Dufzinha github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dufzinha&layout=compact&hide_border=true&title_color=66CDAA&text_color=F0FFF0&bg_color=0d1117" />
-</div>
+
 
 <div align="center"> 
 <a href="https://instagram.com/dudda_ar" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"</a>
