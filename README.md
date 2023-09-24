@@ -1,15 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header"/>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dufzinha&bg_color=0d1117&color=40E0D0&line=E0FFFF&point=5F9EA0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dufzinha&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
-
-
 <div align="center"> 
 <a href="https://instagram.com/dudda_ar" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"</a>
 <a href="https://www.twitter.com/dufzinha" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
