@@ -1,5 +1,6 @@
 ### Hi there
 
+
 <div align="left">
    I'm Eduarda Razera, a 20-year-old currently enrolled in the Analysis and Systems Development program at university. Residing in Brazil, I have a strong passion for front-end development.
 
