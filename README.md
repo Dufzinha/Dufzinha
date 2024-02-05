@@ -13,7 +13,7 @@ Feel free to explore my GitHub to witness the projects and code snippets that re
 
 
 
-## Main skills:
+## :computer: Main skills:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=css" height="25" alt="css3 logo"  />
@@ -31,7 +31,7 @@ Feel free to explore my GitHub to witness the projects and code snippets that re
   <img src="https://skillicons.dev/icons?i=discord" height="25" alt="discord logo"  />
 </div>
 
-## Socials:
+## :thought_balloon: Socials:
 
 <div align="center"> 
 <a href="https://instagram.com/dudda_ar" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"</a>
