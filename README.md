@@ -12,8 +12,8 @@ Feel free to explore my GitHub to witness the projects and code snippets that re
 
 
 
- ### Main skills:
-<div align="center">
+### Main skills:
+<div align="left">
   <img src="https://skillicons.dev/icons?i=css" height="25" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="25" alt="html5 logo"  />
@@ -35,6 +35,3 @@ Feel free to explore my GitHub to witness the projects and code snippets that re
 <a href="https://www.twitter.com/dufzinha" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 
 
-
-###
-<img src="https://raw.githubusercontent.com/Dufzinha/Dufzinha/output/snake.svg" alt="Snake animation" />
