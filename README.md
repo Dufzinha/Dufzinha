@@ -2,7 +2,7 @@
 
 
 <div align="left">
-   I'm Eduarda Razera, a 20-year-old currently enrolled in the Analysis and Systems Development program at university. Residing in Brazil, I have a strong passion for front-end development.
+   I'm Eduarda Razera, a 21-year-old currently enrolled in the Analysis and Systems Development program at university. Residing in Brazil, I have a strong passion for front-end development.
 
 In the exciting world of technology, I am dedicated to honing my skills and expanding my knowledge in the field. The dynamic nature of front-end development captivates me, and I am enthusiastic about creating user-friendly and visually appealing interfaces.
 
